@@ -1,1 +1,1 @@
-# Selectize.js-limit-tags-plugin
+# Selectize.js limit tags plugin
